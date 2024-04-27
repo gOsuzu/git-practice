@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 changes in local repo.  
-main branch change
+conflict branch change
